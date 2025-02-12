@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./
+Class-Path: .
+Rsrc-Main-Class: com.Static.Blindsided.Game
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+

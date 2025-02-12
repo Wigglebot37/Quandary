@@ -1,0 +1,11 @@
+Controls:
+Arrow Keys or WASD to move
+"Esc" or "P" to pull up and close the pause menu
+Spacebar to freeze time around you
+"R" to respawn at the most recent checkpoint with full health and balanced temperature
+
+Things to Note:
+- There is music, so listen to it.
+- Losing all health respawns you automatically
+- You can choose your spawn location by standing on a spawn pad
+- freezing time slowly freezes you (temp)
